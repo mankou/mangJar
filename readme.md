@@ -2,6 +2,10 @@
 * 整理自己的工具类形成自己的jar包
 
 # 版本说明
+	# V1.1.13
+		+ CopyUtil增加拷备指定属性的公用代码
+		+ 增加EntityUtil公用类
+	
 	# V1.1.12
 	 + StringUtil增加如下方法 joinHql joinHqlLike joinHqlIn indexOf mergeWithNoRepeat removeRepeat
 	 
